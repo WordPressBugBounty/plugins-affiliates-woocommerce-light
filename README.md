@@ -1,0 +1,1 @@
+# plugins-affiliates-woocommerce-light
